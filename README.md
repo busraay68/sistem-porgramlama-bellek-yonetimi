@@ -68,7 +68,8 @@ Detaylı dokümantasyon `docs/` klasöründe:
 ├── docs/
 │   ├── ARCHITECTURE.md
 │   ├── API.md
-│   └── IMPLEMENTATION.md
+│   ├── IMPLEMENTATION.md
+│   └── Proje_Raporu.pdf
 ├── Makefile
 └── README.md
 ``` 
