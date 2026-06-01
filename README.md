@@ -20,13 +20,12 @@ make test
 
 # Testlerden sonra terminal arayüzünü aç
 make run
-```
 
 # İstatistikleri görmek için
 allocator_print_stats();
 
 ```
-> Not: `allocator_print_stats();` terminal komutu değildir. C kodu içinde çağrılan bir fonksiyondur. İstatistikleri görmek için `make test` veya `make run` kullanılabilir.
+#Not: `allocator_print_stats();` terminal komutu değildir. C kodu içinde çağrılan bir fonksiyondur. İstatistikleri görmek için `make test` veya `make run` kullanılabilir.
 
 ## 📚 Dokümantasyon
 
